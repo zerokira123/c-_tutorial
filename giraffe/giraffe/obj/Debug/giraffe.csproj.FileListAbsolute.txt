@@ -1,0 +1,7 @@
+C:\Users\anees\Documents\C#\c-_tutorial\giraffe\giraffe\bin\Debug\giraffe.exe.config
+C:\Users\anees\Documents\C#\c-_tutorial\giraffe\giraffe\bin\Debug\giraffe.exe
+C:\Users\anees\Documents\C#\c-_tutorial\giraffe\giraffe\bin\Debug\giraffe.pdb
+C:\Users\anees\Documents\C#\c-_tutorial\giraffe\giraffe\obj\Debug\giraffe.csprojAssemblyReference.cache
+C:\Users\anees\Documents\C#\c-_tutorial\giraffe\giraffe\obj\Debug\giraffe.csproj.CoreCompileInputs.cache
+C:\Users\anees\Documents\C#\c-_tutorial\giraffe\giraffe\obj\Debug\giraffe.exe
+C:\Users\anees\Documents\C#\c-_tutorial\giraffe\giraffe\obj\Debug\giraffe.pdb
