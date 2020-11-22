@@ -13,6 +13,8 @@ namespace giraffe
 
             Console.WriteLine("hello world");
 
+            Console.ReadLine();
+
         }
     }
 }
