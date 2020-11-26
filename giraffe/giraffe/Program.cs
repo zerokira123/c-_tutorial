@@ -10,7 +10,8 @@ namespace giraffe
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Giraffe\"Academy");
+            string phrase = ("Giraffe Academy" + " is Cool");
+            Console.WriteLine(phrase);
 
 
             Console.ReadLine();
