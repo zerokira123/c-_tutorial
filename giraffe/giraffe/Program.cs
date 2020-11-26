@@ -13,8 +13,9 @@ namespace giraffe
 
             Console.WriteLine("hello world");
 
+           string a  = Console.ReadLine();
+            Console.WriteLine(a);
             Console.ReadLine();
-
 
         }
     }
