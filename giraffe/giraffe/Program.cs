@@ -11,7 +11,7 @@ namespace giraffe
         static void Main(string[] args)
         {
             string phrase = ("Giraffe Academy" + " is Cool");
-            Console.WriteLine(phrase);
+            Console.WriteLine(phrase.Length);
 
 
             Console.ReadLine();
