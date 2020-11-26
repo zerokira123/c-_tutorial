@@ -14,7 +14,7 @@ namespace giraffe
             string chName = "giraffe";
             char grade = 'A';
             int age = 30;
-            
+            doble gba = 3.3;
 
             Console.ReadLine();
 
