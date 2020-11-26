@@ -15,6 +15,7 @@ namespace giraffe
             char grade = 'A';
             int age = 30;
             double gba = 3.3;
+            bool isMalee = true;
 
             Console.ReadLine();
 
