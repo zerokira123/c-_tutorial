@@ -10,12 +10,8 @@ namespace giraffe
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("ENTER YOUR NAME");
-            string chName = "giraffe";
-            char grade = 'A';
-            int age = 30;
-            double gba = 3.3;
-            bool isMalee = true;
+            Console.WriteLine("Giraffe\nAcademy");
+
 
             Console.ReadLine();
 
