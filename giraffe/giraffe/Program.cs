@@ -13,6 +13,8 @@ namespace giraffe
             Console.WriteLine("ENTER YOUR NAME");
             string chName = "giraffe";
             char grade = 'A';
+            int age = 30;
+            
 
             Console.ReadLine();
 
