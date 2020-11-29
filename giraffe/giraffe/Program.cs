@@ -10,7 +10,7 @@ namespace giraffe
     {
         static void Main(string[] args)
         {
-            Console.WriteLine();
+            Console.WriteLine(Math.Pow(3,3));
 
 
             Console.ReadLine();
