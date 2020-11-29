@@ -11,7 +11,7 @@ namespace giraffe
         static void Main(string[] args)
         {
             string phrase = ("Giraffe Academy" + " is Cool");
-            Console.WriteLine(phrase.Contains("Co"));
+            Console.WriteLine(phrase.IndexOf("a"));
 
 
             Console.ReadLine();
