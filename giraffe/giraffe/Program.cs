@@ -10,13 +10,14 @@ namespace giraffe
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("ENTER YOUR NAME");
-            string name = Console.ReadLine();
+         
+            Console.WriteLine("Enter a number");
+            int num1 = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("ENTER YOUR AGE");
-            string age = Console.ReadLine();
+            Console.WriteLine("Enter a number");
+            int num2 = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Hello " + name + " Your " + age);
+            Console.WriteLine(num2 + num1);
 
             Console.ReadLine();
 
