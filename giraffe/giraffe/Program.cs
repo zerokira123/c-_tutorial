@@ -10,14 +10,20 @@ namespace giraffe
     {
         static void Main(string[] args)
         {
-         
-            Console.WriteLine("Enter a number");
-            int num1 = Convert.ToInt32(Console.ReadLine());
+            string color, pluralnoun, celebrity;
 
-            Console.WriteLine("Enter a number");
-            int num2 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter a color: ");
+            color = Console.ReadLine();
 
-            Console.WriteLine(num2 + num1);
+            Console.WriteLine("Enter a plural noun: ");
+            pluralnoun = Console.ReadLine();
+
+            Console.WriteLine("Enter a celebrity: ");
+            celebrity = Console.ReadLine();
+
+            Console.WriteLine("Roses are " + color);
+            Console.WriteLine(pluralnoun +" are blue");
+            Console.WriteLine("I love " + celebrity);
 
             Console.ReadLine();
 
